@@ -1,1 +1,4 @@
 code du main
+
+refonte complète pour intégrer la nouvelle fonction
+
